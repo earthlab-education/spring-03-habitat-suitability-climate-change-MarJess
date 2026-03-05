@@ -1,0 +1,36 @@
+"Data Source: Future Scatter Tool in the Climate Toolbox (https://climatetoolbox.org/tool/future-scatter)"
+Download Date: 03/04/2026
+
+"Location (Lat/Lon of 4-km Grid Cell Center): Richard Bong Recreation Area (42.6368 N, 88.1409 W)"
+
+X Variable:Jun-July-Aug Daily Maximum Temperature(degF) 
+X Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Y Variable:Dec-Jan-Feb Total Precipitation(inches) 
+Y Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Historical(HIST): 1971-2000 
+SCEN Future Scenario: 2070-2099(Higher Emissions (RCP 8.5))
+********************************************************
+Model,X HIST,Y HIST,X SCEN,Y SCEN
+bcc-csm1-1,81.083,5,91.237,5.7
+bcc-csm1-1-m,81.084,5.2,91.288,5.7
+BNU-ESM,81.07,5.1,92.768,5.8
+CanESM2,80.683,4.9,91.831,6.5
+CCSM4,80.826,4.9,91.643,5.6
+CNRM-CM5,80.374,4.7,89.091,5.6
+CSIRO-Mk3-6-0,80.112,4.7,91.996,5.6
+GFDL-ESM2M,80.822,5.2,87.823,6.4
+GFDL-ESM2G,80.223,4.8,88.136,5.8
+HadGEM2-CC365,80.713,5.1,98.056,7.5
+HadGEM2-ES365,80.881,4.9,96.224,7.2
+inmcm4,80.738,4.6,85.564,5.6
+IPSL-CM5A-LR,80.881,4.7,92.405,4.7
+IPSL-CM5A-MR,80.645,5.1,93.899,3.7
+IPSL-CM5B-LR,81.005,5.1,90.55,5.9
+MIROC5,80.37,4.8,92.063,5.4
+MIROC-ESM,80.356,4.7,95.396,5.8
+MIROC-ESM-CHEM,80.543,5,95.338,6.1
+MRI-CGCM3,80.474,4.9,86.728,6.5
+NorESM1-M,80.603,5,92.541,6.6
+20CMIP5ModelMean,80.674,4.9,91.729,5.9

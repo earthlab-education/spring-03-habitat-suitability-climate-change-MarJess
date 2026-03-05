@@ -1,0 +1,36 @@
+"Data Source: Future Scatter Tool in the Climate Toolbox (https://climatetoolbox.org/tool/future-scatter)"
+Download Date: 03/04/2026
+
+"Location (Lat/Lon of 4-km Grid Cell Center): Indiangrass Wildlife Sanctuary (30.3163 N, 97.5928 W)"
+
+X Variable:Jun-July-Aug Daily Maximum Temperature(degF) 
+X Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Y Variable:Dec-Jan-Feb Total Precipitation(inches) 
+Y Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Historical(HIST): 1971-2000 
+SCEN Future Scenario: 2070-2099(Higher Emissions (RCP 8.5))
+********************************************************
+Model,X HIST,Y HIST,X SCEN,Y SCEN
+bcc-csm1-1,94.767,7.9,104.11,7
+bcc-csm1-1-m,94.652,7.3,103.82,7
+BNU-ESM,94.897,7.6,102.29,7.5
+CanESM2,94.639,6.7,104.13,6.8
+CCSM4,94.79,7.1,102.12,5.6
+CNRM-CM5,94.867,7.2,101.35,6.8
+CSIRO-Mk3-6-0,94.584,7.1,103.88,4.8
+GFDL-ESM2M,94.411,6.9,103.38,5.7
+GFDL-ESM2G,95.125,6.5,104.11,7.2
+HadGEM2-CC365,94.541,7.3,105.31,8.4
+HadGEM2-ES365,94.408,7.5,105.2,8.8
+inmcm4,94.798,7.2,99.92,5
+IPSL-CM5A-LR,95.352,6.9,106.33,3.6
+IPSL-CM5A-MR,94.67,7.1,107.35,3.4
+IPSL-CM5B-LR,95.031,7.1,101.66,6.8
+MIROC5,94.808,6.1,105.19,6.2
+MIROC-ESM,94.54,6.5,104.49,8.7
+MIROC-ESM-CHEM,94.639,6.9,105.19,6.5
+MRI-CGCM3,94.609,7.1,102.58,5.9
+NorESM1-M,94.782,7.3,101.53,6.1
+20CMIP5ModelMean,94.745,7.1,103.7,6.4
