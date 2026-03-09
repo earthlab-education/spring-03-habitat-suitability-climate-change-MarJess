@@ -1,0 +1,36 @@
+"Data Source: Future Scatter Tool in the Climate Toolbox (https://climatetoolbox.org/tool/future-scatter)"
+Download Date: 03/08/2026
+
+"Location (Lat/Lon of 4-km Grid Cell Center): BALCONES CANYONLANDS NATIONAL WILDLIFE REFUGE (30.5858 N, 98.0398 W)"
+
+X Variable:Jun-July-Aug Daily Maximum Temperature(degF) 
+X Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Y Variable:Dec-Jan-Feb Total Precipitation(inches) 
+Y Product:Future Climate Projections - MACAv2-METDATA(https://climate.northwestknowledge.net/MACA/) 
+
+Historical(HIST): 1971-2000 
+SCEN Future Scenario: 2070-2099(Higher Emissions (RCP 8.5))
+********************************************************
+Model,X HIST,Y HIST,X SCEN,Y SCEN
+bcc-csm1-1,94.318,6.7,104,6.1
+bcc-csm1-1-m,94.198,6.3,103.64,6.1
+BNU-ESM,94.456,6.5,101.96,6.6
+CanESM2,94.172,5.8,103.94,5.9
+CCSM4,94.358,6.1,101.99,4.8
+CNRM-CM5,94.411,6.4,100.93,6.3
+CSIRO-Mk3-6-0,94.16,6.4,103.68,4
+GFDL-ESM2M,93.971,5.9,103.13,4.9
+GFDL-ESM2G,94.684,5.8,103.95,6.5
+HadGEM2-CC365,94.05,6.3,104.88,7.2
+HadGEM2-ES365,93.914,6.4,104.78,7.3
+inmcm4,94.36,6.3,99.629,4.5
+IPSL-CM5A-LR,94.928,6.1,105.99,3.2
+IPSL-CM5A-MR,94.21,6.2,106.89,2.9
+IPSL-CM5B-LR,94.571,6.4,101.17,6.1
+MIROC5,94.398,5.4,104.59,5.5
+MIROC-ESM,94.076,5.7,104.37,7.4
+MIROC-ESM-CHEM,94.191,6,105.02,5.7
+MRI-CGCM3,94.166,6.1,101.96,5.2
+NorESM1-M,94.321,6.3,101.34,5.4
+20CMIP5ModelMean,94.296,6.2,103.39,5.6
